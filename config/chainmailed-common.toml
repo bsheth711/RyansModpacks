@@ -1,0 +1,10 @@
+#enable chainmail block sound
+sound_chainmailed_block = true
+#How much base Impact Resistance chainmail armor has
+#Range: 0.1 ~ 1.7976931348623157E308
+impact_resistance_chainmailed_basic = 0.5
+#How much base armor chainmail armor has
+armor_for_slot_chainmailed_basic = ["head:0", "chest:0", "legs:0", "feet:0"]
+#A blacklist for armors that can't be chainmailed
+chainmailed_blacklist = []
+

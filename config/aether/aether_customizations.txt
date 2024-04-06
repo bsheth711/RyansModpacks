@@ -1,0 +1,3 @@
+haloEnabled:true
+developerGlowEnabled:false
+moaSkin:frozen_phoenix

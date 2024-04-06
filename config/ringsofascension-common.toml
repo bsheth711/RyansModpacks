@@ -1,0 +1,68 @@
+
+["Rings of Ascension"]
+	#The cooldown in seconds of the Ring of Undying
+	#Range: > 0
+	ringUndyingCooldown = 12000
+	#The amount of hearts that Max Health's ring gives you.
+	#Range: 0 ~ 400
+	ringHealthHearts = 1
+
+["Enable/Disable Rings"]
+	ringFireResistance = false
+	ringInvisibility = false
+	ringRegeneration = false
+	ringSlowFalling = false
+	ringStrength = false
+	ringWaterBreathing = false
+	ringSpeed = false
+	ringNightVision = false
+	ringJumpBoost = false
+	ringMining = false
+	ringLuck = false
+	ringDolphin = false
+	ringMagnetism = false
+	ringFlight = false
+	ringPoisonResistance = true
+	ringHungerless = false
+	ringGrowth = false
+	ringKnockbackResistance = false
+	ringHealth = true
+	ringSponge = false
+	ringExperience = true
+	ringWaterWalking = false
+	ringWither = true
+	ringUndying = false
+	ringSlowResistance = true
+	ringSteadfastSteps = true
+
+["Rings Amplifier"]
+
+	#Sets the amplifier of the effect given by the ring. Example:
+	#0 = Fire Resistance I
+	#1 = Fire Resistance II
+	["Rings Amplifier".Amplifiers]
+		#Range: 0 ~ 255
+		ringAmplifierFireResistance = 1
+		#Range: 0 ~ 255
+		ringAmplifierInvisibility = 0
+		#Range: 0 ~ 255
+		ringAmplifierRegeneration = 0
+		#Range: 0 ~ 255
+		ringAmplifierSlowFalling = 0
+		#Range: 0 ~ 255
+		ringAmplifierStrength = 0
+		#Range: 0 ~ 255
+		ringAmplifierWaterBreathing = 1
+		#Range: 0 ~ 255
+		ringAmplifierSpeed = 0
+		#Range: 0 ~ 255
+		ringAmplifierNightVision = 0
+		#Range: 0 ~ 255
+		ringAmplifierJumpBoost = 0
+		#Range: 0 ~ 255
+		ringAmplifierMining = 1
+		#Range: 0 ~ 255
+		ringAmplifierLuck = 1
+		#Range: 0 ~ 255
+		ringAmplifierDolphin = 0
+

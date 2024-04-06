@@ -1,0 +1,14 @@
+[ {
+    "mob": "minecraft:warden",
+    "player": true,
+    "item": "origins:orb_of_origin",
+    "itemcount": "0-1",
+    "nbt": {
+      "ench": [
+        {
+          "lvl": 3,
+          "id": 22
+        }
+      ]
+    }
+  }]

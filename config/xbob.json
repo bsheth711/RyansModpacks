@@ -1,0 +1,10 @@
+{
+  "spear": false,
+  "item": false,
+  "bob": false,
+  "aim": false,
+  "eat": false,
+  "atk": true,
+  "xbow": false,
+  "sneak": false
+}

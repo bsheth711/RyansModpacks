@@ -1,0 +1,7 @@
+[
+  {
+    "mob": "minecraft:stray",
+    "dimension": "aether:the_aether",
+    "result": "deny"
+  }
+]

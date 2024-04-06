@@ -1,0 +1,25 @@
+#Gaia's tears are obtained from diamond ore blocks and emerald ore blocks. This is a weight value which sets how often you will find a tear gem. Default value is 100 (meaning 50 out of every 1000, or in other words 5%) and might even be a generous weight. Set to 0 do disable (in which case you need to establish a different way of obtaining these gems). There is no worldgen.
+#Range: 0 ~ 1000
+"Number of tears in a 1000 gem blocks" = 40
+#Gaia's tears are obtained from diamond ore blocks and emerald ore blocks. This setting controls whether they replace one of the gems you get from a block when breaking it, or is a tear added to the drop list.
+"Should replace a gem" = true
+#Advanced versions of these gems crafted from normal versions and aplied after normal ones. Quite powerful.
+"Level two gems enabled" = true
+#If set to true, enchanted books with Soulbound enchantment can be found in fishing loot or bought from librarians or found in chests. If set to false, only mods can put the book into loot or make it otherwise available to players. This mod bestows Soulbound enchantment through earth gem.
+"Enchanted books with Soulbound available" = true
+#If set to true, enchanted books with Smith's Triumph enchantment (limiting anvil cost) can be found in fishing loot or bought from librarians or found in chests. If set to false, only mods can put the book into loot or make it otherwise available to players. This mod bestows Triumph enchantment through water gem.
+"Enchanted books with Smith's Triumph available" = true
+#Instead of new blocks being introduced, gems from this mod drop when you break diamond ore. This setting specifies exactly what blocks drop gems. These are actually loot table locations; separate them using a comma and any number of spaces.
+"Blocks that drop Tears of Gaia" = "minecraft:blocks/diamond_ore,  minecraft:blocks/emerald_ore,   minecraft:blocks/deepslate_diamond_ore,  minecraft:blocks/deepslate_emerald_ore"
+
+["Tetra compatibility"]
+	#Tetra tools get some alternative abilities. This is a percentage chance for a weapon to do double damage.
+	#Range: 0 ~ 100
+	"Double damage chance (percentage)" = 10
+	#Tetra tools get some alternative abilities. This is a percentage chance for a tool to block potion effect.
+	#Range: 0 ~ 100
+	"Chance to block poison (percentage)" = 75
+	#Tetra tools get some alternative abilities. This is a percentage chance for a tool to block wither effect.
+	#Range: 0 ~ 100
+	"Chance to block wither (percentage)" = 75
+

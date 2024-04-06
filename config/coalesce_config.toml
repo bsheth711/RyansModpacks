@@ -1,0 +1,59 @@
+
+["Max Heal"]
+	#Enables the Max Heal mechanic
+	maxHeal = false
+	#The percentage of damage that reduces Max Heal
+	maxHealReduction = 25.0
+	#The percentage of Max Heal gain from potions (Regen & Instant Health)
+	maxHealRegen = 20.0
+	#The amount of Max Heal restored after sleeping
+	maxHealSleep = 1.0
+	#The max percentage of Max Heal a player can restore from sleeping
+	maxHealSleepPercent = 75.0
+
+[Distance]
+	#Enables/disables distance damage calculation
+	distanceDamage = false
+	#The multiplier of distance damage increase at the closest and farthest range
+	distanceMultiplier = 2.0
+
+[Saturation]
+	#Enables the Coalesce custom saturation system
+	coalesceSaturation = false
+	#The amount of saturation decreased per tick
+	saturationTickDecrease = 0.01
+	#Allows food potion effects (Hunger, Saturation) to affect saturation increase/decrease
+	saturationEffects = false
+
+[Arrow]
+	#Changes all arrow damage. The calculation is (damage * multiplier), meaning 1 would be resetting the damage to default
+	arrowDamageMultiplier = 1.0
+
+[Adrenaline]
+	#Enables the adrenaline mechanic
+	enableAdrenaline = false
+	#The initial adrenaline granted when attacking
+	initialAdrenalineSpike = 20.0
+	#The multiplier for adrenaline gained by the attacker
+	attackAdrenalineMultiplier = 2.0
+	#The multiplier for adrenaline gained by the victim (attacked)
+	victimAdrenalineMultiplier = 1.0
+	#Enables stat boosts from adrenaline
+	adrenalineStats = false
+	#While true, having adrenaline forces the player to constantly sprint
+	adrenalineSprint = false
+
+[IFrames]
+	#Enables the custom IFrame system
+	enableIFrameSystem = true
+	#The amount of IFrames a player gets when attacked
+	victimIFramesGrant = 8.0
+	#The multiplier for frames the attacker gets upon attacking
+	attackIFrameMultiplier = 0.0
+
+[Shields]
+	#Enables shield cooldown on block scaling with damage
+	shieldCooldown = true
+	#Multiplier of cooldown according to damage dealt
+	shieldCooldownMultiplier = 1.0
+
