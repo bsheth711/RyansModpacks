@@ -194,7 +194,7 @@
     "mob_groups": {
       "piglins": {
         "required_game_stage": "expert",
-        "chance": 0.25,
+        "chance": 0.0,
         "is_scaled_by_crd": true,
         "leader_types": [
           {
@@ -215,7 +215,7 @@
       },
       "skeletons": {
         "required_game_stage": "normal",
-        "chance": 0.1,
+        "chance": 0.0,
         "is_scaled_by_crd": true,
         "leader_types": [
           {
@@ -236,7 +236,7 @@
       },
       "undead": {
         "required_game_stage": "normal",
-        "chance": 0.1,
+        "chance": 0.0,
         "is_scaled_by_crd": true,
         "leader_types": [
           {
@@ -281,7 +281,7 @@
       },
       "zombie_miners": {
         "required_game_stage": "expert",
-        "chance": 0.25,
+        "chance": 0.0,
         "is_scaled_by_crd": true,
         "leader_types": [
           {
