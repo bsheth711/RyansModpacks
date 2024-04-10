@@ -16,7 +16,7 @@
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"incremental cost" = 1.0
 	#Items that have their own enchantment point cap. Format is name, base enchantability, increment per extra point of enchantability.
-	"custom items" = ["minecraft:fishing_rod, 20, 0.5", "minecraft:bow, 15, 1", "minecraft:enchanted_book, 30, 0", "wardenwalkers:warden_walkers, 18, 0"]
+	"custom items" = ["minecraft:fishing_rod, 20, 0.5", "minecraft:bow, 15, 1", "minecraft:enchanted_book, 30, 0", "wardenwalkers:warden_walkers, 18, 0", "twilightforest:triple_bow, 15, 1", "twilightforest:seeker_bow, 15, 1", "minecraft:crossbow, 15, 1", "twilightforest:ice_bow, 15, 1", "twilightforest:ender_bow, 15, 1", "aether:phoenix_bow, 15, 1"]
 	#It's really irritating how nightconfig doesn't keep the entries in separate lines, but alas. Define enchantments here. Format is name, base cost, incremental cost.
 	enchantments = ["minecraft:mending, 5, 0", "minecraft:sharpness, 0, 1"]
 
