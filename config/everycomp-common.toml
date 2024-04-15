@@ -46,6 +46,14 @@
 				umbran = true
 				hellbark = true
 
+			[general.types.wood_type.quark]
+				azalea = true
+				ancient = true
+				blossom = true
+
+			[general.types.wood_type.aether]
+				skyroot = true
+
 		[general.types.leaves_type]
 
 			[general.types.leaves_type.biomesoplenty]
@@ -80,6 +88,22 @@
 				mining = true
 				sorting = true
 
+			[general.types.leaves_type.aether]
+				skyroot = true
+				golden_oak = true
+				crystal = true
+				crystal_fruit = true
+				holiday = true
+				decorated_holiday = true
+
+			[general.types.leaves_type.quark]
+				ancient = true
+				blue_blossom = true
+				lavender_blossom = true
+				orange_blossom = true
+				yellow_blossom = true
+				red_blossom = true
+
 	#Disables specific entries
 	[general.entries]
 
@@ -93,4 +117,20 @@
 
 			[general.entries.wood_type.friendsandfoes]
 				beehive = true
+
+			[general.entries.wood_type.quark]
+				vertical_planks = true
+				post = true
+				trapped_chest = true
+				bookshelf = true
+				chest = true
+				stripped_post = true
+				ladder = true
+				hollow_log = true
+
+		[general.entries.leaves_type]
+
+			[general.entries.leaves_type.quark]
+				hedge = true
+				leaf_carpet = true
 
