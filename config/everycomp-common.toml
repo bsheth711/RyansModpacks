@@ -54,6 +54,9 @@
 			[general.types.wood_type.aether]
 				skyroot = true
 
+			[general.types.wood_type.habitat]
+				fairy_ring_mushroom = true
+
 		[general.types.leaves_type]
 
 			[general.types.leaves_type.biomesoplenty]
