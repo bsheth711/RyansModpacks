@@ -6,7 +6,7 @@ showLevelOverHead = true
 #Range: 0 ~ 128
 overHeadRenderDistance = 32
 #Show nameplate style trait and name only when hovered
-showOnlyWhenHovered = false
+showOnlyWhenHovered = true
 #Detector Glasses glowing range for hidden mobs
 #Range: 1 ~ 256
 glowingRangeHidden = 32
